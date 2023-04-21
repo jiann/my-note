@@ -451,7 +451,7 @@ processor.getIdentity(); // output: 'Hello'
 
 ## API
 
-```jsx
+```tsx
 const fetchURL = 'https://jsonplaceholder.typicode.com/posts'
 
 interface Post {
@@ -478,4 +478,4 @@ async function showPost() {
 showPost();
 ```
 
-- **async, await**: Await ****will wait return object pending finish and have to use async to call the function
+- **async, await**: Await will wait return object pending finish and have to use async to call the function
